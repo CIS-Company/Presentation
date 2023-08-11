@@ -1,7 +1,5 @@
 # Presentation
 
-Slide deck, as a PDF
-A link to the video of your presentation (when it becomes available)
+[Presentation video]()
 
-When completed, export the slide deck as a PDF, commit it to the repo and link it to the README.md file.
-
+[Slide Deck](https://github.com/SilverLine-Security/Presentation/blob/main/Project%20SlideShow%20Presentation.pdf)
